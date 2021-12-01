@@ -1,5 +1,4 @@
 
-
 command=None
 
 def command_test():
